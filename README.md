@@ -10,7 +10,7 @@
 > * **v2free-多节点稳定**：服务器节点非常丰富，万一遇到网络拥堵随时可以随时切换到其他线路，体验十分稳定。
 
 
-🚀 [魔戒（不清零）](https://74.82.196.10:8000/register?aff=1pWspTHg#tt)  &ensp;  🚀 [魔戒（不清零）](https://47.112.97.173:8000/register?aff=1pWspTHg#tt) 
+## 🚀 [魔戒（不清零）](https://74.82.196.10:8000/register?aff=1pWspTHg#tt)  &ensp;  🚀 [魔戒（不清零）](https://47.112.97.173:8000/register?aff=1pWspTHg#tt) 
 ### 🎉活动：19.9及以上套餐可使用优惠码：6year，截止日期：不确定
 * **特点**：已用3年+，流量不清零，应该是不清零机场中性价比最高的了，强烈推荐这个机场的19.9元套餐作为备用
 * **价格**：19.9元130G，29.9元210G，85元750G，888元10T
@@ -25,7 +25,7 @@
 * **支持**：Hysteria2 协议，全平台客户端支持，可解锁各大主流媒体。推荐Clash-verge / Shadowrocket.
 * **用法**：网站内有详细使用方法。三网优化，速度更快更稳
 
-🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2（节点多）](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [v2free3（节点多）](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [v2free4（节点多）](https://cdn.xmoney.top/auth/register?code=QKu7#tt) 
+## 🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2（节点多）](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [v2free3（节点多）](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [v2free4（节点多）](https://cdn.xmoney.top/auth/register?code=QKu7#tt) 
 #### 一个打不开就试试别的
 * **特点**：稳定，高速，节点非常多，全球100+高速节点；缺点：略贵，给急需使用机场的朋友推荐的一个应急选项
 * **价格**：20元/月/100G，39元/月/200G，10人共享套餐，1人独享原生IP家宽套餐。
