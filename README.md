@@ -35,4 +35,4 @@
 
 
 
-#### 友链：[hm4reggggg](https://github.com/hm4reggggg/jichang),[giantlucy](https://github.com/giantlucy/latest_jichang)
+#### 友链：[hm4reggggg](https://github.com/hm4reggggg/jichang),[giantlucy](https://github.com/ycultnaig/latest_jichang)
